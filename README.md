@@ -5,7 +5,7 @@ Then we will play with a dataset gathering songs from the International Society 
 
 ## Content Description
 * **main.ipynb**: is a Jupyter notebook where we show the solution to the whole homework (graphs, tables and comments).
-* **link_html.txt**: is a file containing the link of the html version directly in *Jupyter Notebook Viewer*, for a clearer reading(especially for writing in Latex).
+* **link.txt**: is a file containing the link of the main directly in *Jupyter Notebook Viewer*, for a clearer reading(especially for writing in Latex).
 
 ## Group Members [Group #16]
 Davide Mascolo: mascolo.2001991@studenti.uniroma1.it
