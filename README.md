@@ -7,6 +7,6 @@ Then we will play with a dataset gathering songs from the International Society 
 * main: is a Jupyter notebook where we show the solution to the whole homework (graphs, tables and comments).
 
 ## Group Members [Group #16]
-Davide Mascolo: mascolo.2001991@studenti.uniroma1.it\n
-Mossaab Moustaghit: mossaabmous@gmail.com\n
+Davide Mascolo: mascolo.2001991@studenti.uniroma1.it \n
+Mossaab Moustaghit: mossaabmous@gmail.com \n
 Seyed Behdad Ahmadi: seyedbehdadahmadi@gmail.com
