@@ -1,0 +1,3 @@
+For a clearer reading...
+
+https://nbviewer.org/github/mossaabmoustaghit/ADM_Homework4/blob/main/main.ipynb
